@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://rehbock.xyz/:path*",
+      "permanent": true
+    }
+  ]
+}
